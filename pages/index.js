@@ -14,7 +14,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Bem vindo <a href="https://nextjs.org">Next.js!</a>
+          Bem vindo a pagina teste<a href="https://nextjs.org">Next.js!</a>
               </h1>
               <button onClick={() => signIn('google')}>LOGAR</button>
         <p className={styles.description}>
